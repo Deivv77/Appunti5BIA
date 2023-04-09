@@ -1,7 +1,7 @@
 # Il Fascismo
 
 ## La situazione dell'Italia postbellica
-Le tenzioni del dopoguerra ebbero un impatto negativo sull'Italia. I **ceti più umili** richiedevano un miglioramento della loro condizione.<br>
+Le tensioni del dopoguerra ebbero un impatto negativo sull'Italia. I **ceti più umili** richiedevano un miglioramento della loro condizione.<br>
 Al termine del conflitto le masse operaie e contadine rivendicavano:
 - un adeguata **rappresentanza parlamentare**
 - la **divisione e ridistribuzione delle terre**
