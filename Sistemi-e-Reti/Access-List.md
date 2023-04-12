@@ -34,11 +34,13 @@ Quando un ACL viene applicata a un'interfaccia, segue una procedura operativa be
 !!! L'ultima istruzione ACE di un ACL è sempre una negazione implicita che blocca tutto il
 traffico. È nascosto e non visualizzato nella configurazione.
 
-## La Maschera Jolly
+## La Maschera Jolly (wildcard)
 
 Una maschera jolly è simile a una subnet mask in quanto utilizza il processo ANDing per identificare i bit di un indirizzo IPv4 da controllare. A differenza di una subnet mask, in cui binario 1 è uguale a una corrispondenza e binario 0 non è una corrispondenza, in una maschera jolly è vero il contrario.<br>
 Un ACE IPv4 utilizza una maschera jolly a 32 bit per determinare quali bit dell'indirizzo esaminare.<br>
-Le maschere jolly utilizzano le seguenti regole per abbinare 1 e 0 binari:
+Le maschere jolly utilizzano le seguenti regole per abbinare 1 e 0:
 - **Maschera jolly bit 0** - controlla il valore del bit corrispondente nell'indirizzo.
 - **Maschera caratteri jolly bit 1** - Ignora il valore del bit corrispondente nell'indirizzo.
 
+<br><br>
+by ***Leonardo Canu*** *5BIA*
