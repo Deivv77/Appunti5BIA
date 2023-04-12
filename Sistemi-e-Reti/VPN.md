@@ -25,7 +25,7 @@ In commercio esistono due principali tipi di VPN:
 - **site-to-site VPN**:  consente alle aziende di ampliare le risorse di rete alle filiali, agli uffici domestici e ai siti dei partner.
 
 ## Remote-access VPN
-Gli utenti che utilizzano una **Remote-access VPN** possono accedere dalla rete locale come se fossero direttamente collegati ai server della rete della propria azienda. Neccessitano però di 2 componenti indispenzabili:
+Gli utenti che utilizzano una **Remote-access VPN** possono accedere dalla rete locale come se fossero direttamente collegati ai server della rete della propria azienda. Neccessitano però di 2 componenti indispensabili:
 - *Network Access Server*
     - è un server che permette l’accesso alla rete.
     - può essere un server dedicato oppure un’applicazione software in esecuzione su un  server condiviso.
