@@ -1,7 +1,7 @@
 # NAT
 ## Caratteristiche di NAT
 
-Poichè le reti sono comunemente implementati con indirizzi IPv4 privati, per consentire ad un dispositivo di accedere a risorse fuori dalla propria LAN si utilizza il NAT, che **traduce gli indirizzi privati in indirizzi pubblici**.<br>
+Poichè le reti sono comunemente implementate con indirizzi IPv4 privati, per consentire ad un dispositivo di accedere a risorse fuori dalla propria LAN si utilizza il NAT, che **traduce gli indirizzi privati in indirizzi pubblici**.<br>
 
 > Il NAT consiste nel tradurre tutti gli indirizzi privati di una rete un uno pubblico.
 
@@ -11,8 +11,7 @@ Terminologia:
 - **Indirizzo Interno**: L'indirizzo del dispositivo che viene tradotto da NAT.
 - **Indirizzo Esterno**: Indirizzo del dispositivo di destinazione.
 - **Indirizzo Locale**: Un indirizzo locale è qualsiasi indirizzo visualizzato nella parte interna della rete.
-- **Indririzzo Globale**: Un indirizzo globale è qualsiasi indirizzo visualizzato nella
-parte esterna della rete.
+- **Indririzzo Globale**: Un indirizzo globale è qualsiasi indirizzo visualizzato nella parte esterna della rete.
 
 ## Tipi di NAT
 esistono 2 tipi di NAT:
@@ -25,7 +24,7 @@ Viene usato per i server WEB o servizi che devono disporre un indirizzo accessib
 Il NAT dinamico utilizza *un pool di indirizzi pubblici e li assegna dinamicamente* in **base all'ordine di arrivo**. <br>
 
 ### Il Port Address Translation (PAT)
-Il PAT, noto come NAT overload **mappa più indirizzi IPV4 privati su un singolo indirizzo IPv4 pubblico**. <br>
+Il PAT, noto anche come NAT overload **mappa più indirizzi IPV4 privati su un singolo indirizzo IPv4 pubblico**. <br>
 Il PAT si assicura che i dispositivi utilizzino un numero di porta TCP diverso per ogni sessione con un server su Internet. <br>
 PAT tenta di preservare la porta di origine originale. Se la porta di origine originale è già utilizzata, PAT assegna il primo numero di porta disponibile a partire dall'inizio del gruppo di porte appropriato 0-511, 512-1,023 o 1.024-65.535. <br>
 Quando non sono disponibili più porte e sono presenti più indirizzi esterni nel pool di indirizzi, PAT passa all'indirizzo successivo per tentare di allocare la porta di origine originale. <br>
