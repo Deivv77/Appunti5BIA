@@ -8,7 +8,7 @@ attraverso canali dedicati, a uso esclusivo, pagandone l’affitto al
 proprietario o al gestore.
 
 |PRO|CONTRO|
-|---|---|---|
+|---|---|
 |larghezza di banda sempre disponibile|alti costi di installazione|
 |nessun problema di accesso|ricorrenti costi di manutenzione|
 |nessuna congestione del traffico a livello di rete|lunghi tempi per la configurazione e riconfigurazione|
