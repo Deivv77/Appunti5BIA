@@ -86,6 +86,6 @@ In questa tendenza letteraria si rifiuta l’immagine del poeta con l’aureola.
 - Forti influenze di **Nietzsche, Freud e Bergson**
 
 <br><br>
-by ***Davide Cazzato *** *5BIA*<br>
+by ***Davide Cazzato*** *5BIA*<br>
 
 #### Feat. Enrico Marinelli, Gioele Falaschi, Leonardo Canu, Alessandro Somigli
