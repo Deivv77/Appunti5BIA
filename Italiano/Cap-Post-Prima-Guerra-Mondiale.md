@@ -16,6 +16,5 @@ Le avanguradie fanno perte di un movimento più ampio: il **Modernismo** che per
 Il 1925 è un anno particolarmente importante, dopo il periodo delle avanguardie vi sarà un altro momento "*dei grandi*" (per esempio con Pirandello e Svevo) e ci rasà, anche, un ritorno della lirica con "**Ossi di Seppia**" di **Montale*.*
 
 
-
 <br><br>
 by Leonardo Canu 5B-IA
