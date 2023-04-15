@@ -46,7 +46,15 @@ Guido Gozzano è il maggiore dei crepuscolari. Nasce a Torino, vive in una villa
 **La poesia di Gozzano segna una reazione esemplare e precoce al modello dannunziano**. Le esperienze dei due sono completamente opposte, inoltre Gozzano si **vergogna di essere poeta** e ciò lo ritroviamo nella sua poetica. Gozzano è un letterato di mestiere come d’Annunzio e come lui l’arte si mescola con la vita ma con un risultato diverso; infatti per Gozzano **l’arte prende il posto della vita come un sostituto insufficiente e misero**. Gozzano vede la poesia come non più in grado di affermare nessun significato positivo o indicare prospettive presenti o future agli uomini, ha a che fare con valori sorpassati. Egli vive una situazione contraddittoria: da un lato c’è in lui uno **slancio** ed una passione che vuole esprimersi, ma dall’altro lato questo desiderio lo vive come **un’illusione**. La scrittura poetica diventa così una forma di **autocontrollo ed autocensura** per il poeta che si ritrova in un **irremovibile condizione di compromesso** dove i valori e la vitalità del poeta possono essere espressi ma proiettati su un passato perduto o molto spesso accompagnati da una forte ironia. Il compromesso si ha anche nella forma: **le strutture metriche sono regolari e tradizionali** ma allo stesso tempo vengono **spezzate da elementi di ironia** come la ripetizione dello stesso termine o l’utilizzo di enjambement che contrastano la naturalezza del racconto. La forma di Gozzano sarà rivoluzionaria e ispirerà moltissimi poeti del 1900. Per quanto riguarda il lessico il poeta non rinuncia al **linguaggio letterario di d’Annunzio e Pascoli ma lo accompagna con la solita ironia e abbassamento comico.**
 
 ## LA SIGNORINA FELICITA
-E’ uno dei poemetti più noti e rappresentativi di Gozzano, narra l’idillio tra il poeta e una giovane donna, il poeta rimembra tutti i momenti vissuti in villa con la donna. **Felicità (rappresenta la vera moglie di Gozzano, Amalia Guglielminetti) incarna un ideale di vita elementare e sana**,  lontana dagli intellettualismi e dalle astrazioni proprie del mondo dell’arte.
+E’ uno dei poemetti più noti e rappresentativi di Gozzano.
+In questa opera vediamo vari scenari che Gozzano, qui chiamato Avvocato, e la signorina Felicita (**Rappresentazione di Amalia Guglielminetti, moglie di Gozzano**) passarono nella "**Villa Amarena**", villa dove appunto Amalia risiedeva. La descrizione che ci viene fatta della tenuta ci mostra le sue condizioni precarie con gli anni che passano: tetti spioventi, cocci di vetro conficcati sulle mura e pannocchie che, come una tenda, coprono il cornicione.
+Gozzano vede questa vita come qualcosa che lo possa allontanare dal dolore che la letteratura gli provoca; una vita lontana dagli intellettualismi e dalle astrazioni proprie del mondo dell’arte.
+Ci sono diverse scene da ricordare:
+- Gozzano, con il sindaco, il notaio e il dottore giocano a carte. Gozzano è distratto quindi sta antipatico agli altri giocatori
+- Gozzano che scrive poesie mentre ascolta il ritmo continuo dei piatti che vengono lavati dalla serva Maddalena
+- Gozzano al camino che pensa al poco tempo che gli resta da vivere e Felicita che gli sorride donandogli felicità e speranza
+- Gozzano che propone a Felicita di sposarsi anche sapendo che potrebbe morire da lì a poco e lei che inizia a piangere
+- Gozzano che dice addio a Felicita, fingendo di essere un innamorato disperato, interpretando un personaggio che lui non è
 
 ## DADAISMO
 Ultimo movimento di sovversione, il termine **“Dada”**  viene dal verso dei bambini “da-da” e significa **“giocattolo**”,”gingillo” o “cajillo” il maggior teorico fu Tristan Tzara. <br>
@@ -71,9 +79,11 @@ In Palazzeschi troviamo un forte tono semplice ed ingenuo caratterizzato da tend
 E’ un vero e proprio manifesto della poetica di Palazzeschi, egli si pone come domanda “Chi sono?” nasce dalla crisi della collocazione sociale del poeta nella nascente società di massa. Qui possiamo notare la figura del saltimbanco e quindi l’atteggiamento provocatorio in risposta al pubblico di massa che lo giudica.
 
 ## Lasciatemi divertire ( by ALDO PALAZZESCHI)
-In questa poesia Palazzeschi dà voce alla follia ed all’esuberanza trasgressiva di matrice futurista. 
+In questa poesia Palazzeschi dà voce alla follia ed all’esuberanza trasgressiva tipicamente futurista.
+Sono usate continuamente come intermezzo tra strofa e strofa, delle onomatopee con nessun nesso logico.
+Il poesta è consapevole che queste strofe così trasgressive attireranno il giudizio di professori accademici, ma proprio per questo, li provoca maliziosamente e li incita a lasciarlo divertire
 
-Modernismo
+## Modernismo
 Il modernismo indica una tendenza letteraria nata principalmente nei paesi di lingua inglese, tra i vari autori di questa tendenza abbiamo: **James Joyce, Pirandello,Svevo e Montale**.<br> 
 In questa tendenza letteraria si rifiuta l’immagine del poeta con l’aureola.
 - Caratteristiche:
